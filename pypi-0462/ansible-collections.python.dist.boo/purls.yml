@@ -1,0 +1,5 @@
+- pkg:pypi/ansible-collections.python.dist.boo@0.0.0
+- pkg:pypi/ansible-collections.python.dist.boo@0.0.1.dev0
+- pkg:pypi/ansible-collections.python.dist.boo@0.1.1
+- pkg:pypi/ansible-collections.python.dist.boo@0.1.1.dev0
+- pkg:pypi/ansible-collections.python.dist.boo@0.1.2
