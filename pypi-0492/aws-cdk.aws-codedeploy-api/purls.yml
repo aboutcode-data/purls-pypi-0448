@@ -1,0 +1,8 @@
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.26.0
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.27.0
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.28.0
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.29.0
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.30.0
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.31.0
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.32.0
+- pkg:pypi/aws-cdk.aws-codedeploy-api@0.33.0
