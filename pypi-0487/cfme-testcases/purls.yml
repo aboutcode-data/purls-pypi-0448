@@ -1,0 +1,14 @@
+- pkg:pypi/cfme-testcases@0.10
+- pkg:pypi/cfme-testcases@0.11
+- pkg:pypi/cfme-testcases@0.12
+- pkg:pypi/cfme-testcases@0.13.0
+- pkg:pypi/cfme-testcases@0.14.0
+- pkg:pypi/cfme-testcases@0.15.1
+- pkg:pypi/cfme-testcases@0.15.2
+- pkg:pypi/cfme-testcases@0.3
+- pkg:pypi/cfme-testcases@0.4
+- pkg:pypi/cfme-testcases@0.5
+- pkg:pypi/cfme-testcases@0.6
+- pkg:pypi/cfme-testcases@0.7
+- pkg:pypi/cfme-testcases@0.8
+- pkg:pypi/cfme-testcases@0.9
