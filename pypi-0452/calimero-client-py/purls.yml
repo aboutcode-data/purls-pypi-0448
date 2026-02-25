@@ -9,3 +9,4 @@
 - pkg:pypi/calimero-client-py@0.2.5
 - pkg:pypi/calimero-client-py@0.2.6
 - pkg:pypi/calimero-client-py@0.2.7
+- pkg:pypi/calimero-client-py@0.3.0
