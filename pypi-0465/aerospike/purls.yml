@@ -30,6 +30,8 @@
 - pkg:pypi/aerospike@17.2.0
 - pkg:pypi/aerospike@17.2.0rc1.dev1
 - pkg:pypi/aerospike@18.0.0
+- pkg:pypi/aerospike@18.1.0
+- pkg:pypi/aerospike@19.0.0
 - pkg:pypi/aerospike@2.0.0
 - pkg:pypi/aerospike@2.0.1
 - pkg:pypi/aerospike@2.0.10
