@@ -18,3 +18,5 @@
 - pkg:pypi/adafruit-circuitpython-fruitjam@1.6.3
 - pkg:pypi/adafruit-circuitpython-fruitjam@1.6.4
 - pkg:pypi/adafruit-circuitpython-fruitjam@1.6.5
+- pkg:pypi/adafruit-circuitpython-fruitjam@1.6.6
+- pkg:pypi/adafruit-circuitpython-fruitjam@1.7.0
