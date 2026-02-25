@@ -53,3 +53,4 @@
 - pkg:pypi/bert4torch@0.5.9
 - pkg:pypi/bert4torch@0.5.9.post2
 - pkg:pypi/bert4torch@0.6.0
+- pkg:pypi/bert4torch@0.6.1
