@@ -15,6 +15,7 @@
 - pkg:pypi/ananta@1.2.2
 - pkg:pypi/ananta@1.3.0
 - pkg:pypi/ananta@1.3.1
+- pkg:pypi/ananta@1.3.10
 - pkg:pypi/ananta@1.3.2
 - pkg:pypi/ananta@1.3.3
 - pkg:pypi/ananta@1.3.4
@@ -22,3 +23,5 @@
 - pkg:pypi/ananta@1.3.6
 - pkg:pypi/ananta@1.3.7
 - pkg:pypi/ananta@1.3.8
+- pkg:pypi/ananta@1.3.9
+- pkg:pypi/ananta@1.4.0
