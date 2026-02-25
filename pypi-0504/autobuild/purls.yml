@@ -21,6 +21,7 @@
 - pkg:pypi/autobuild@1.1.9
 - pkg:pypi/autobuild@3.10.0
 - pkg:pypi/autobuild@3.10.1
+- pkg:pypi/autobuild@3.10.2
 - pkg:pypi/autobuild@3.3.0
 - pkg:pypi/autobuild@3.4.0
 - pkg:pypi/autobuild@3.5.0

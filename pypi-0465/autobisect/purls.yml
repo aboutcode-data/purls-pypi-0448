@@ -78,3 +78,5 @@
 - pkg:pypi/autobisect@8.7.0
 - pkg:pypi/autobisect@8.7.1
 - pkg:pypi/autobisect@8.8.0
+- pkg:pypi/autobisect@9.0.0
+- pkg:pypi/autobisect@9.0.1
