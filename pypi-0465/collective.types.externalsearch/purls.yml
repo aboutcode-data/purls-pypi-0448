@@ -1,0 +1,4 @@
+- pkg:pypi/collective.types.externalsearch@11.04
+- pkg:pypi/collective.types.externalsearch@9.02
+- pkg:pypi/collective.types.externalsearch@9.04
+- pkg:pypi/collective.types.externalsearch@9.04dev-r86004
