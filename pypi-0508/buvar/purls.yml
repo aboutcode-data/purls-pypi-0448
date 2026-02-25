@@ -72,6 +72,10 @@
 - pkg:pypi/buvar@0.44.10
 - pkg:pypi/buvar@0.44.11
 - pkg:pypi/buvar@0.44.12
+- pkg:pypi/buvar@0.44.14
+- pkg:pypi/buvar@0.44.15
+- pkg:pypi/buvar@0.44.16
+- pkg:pypi/buvar@0.44.17
 - pkg:pypi/buvar@0.44.4
 - pkg:pypi/buvar@0.44.7
 - pkg:pypi/buvar@0.44.8
