@@ -103,3 +103,7 @@
 - pkg:pypi/certora-cli@8.3.1
 - pkg:pypi/certora-cli@8.5.1
 - pkg:pypi/certora-cli@8.6.1
+- pkg:pypi/certora-cli@8.6.3
+- pkg:pypi/certora-cli@8.6.4
+- pkg:pypi/certora-cli@8.8.0
+- pkg:pypi/certora-cli@8.8.1
