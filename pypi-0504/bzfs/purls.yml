@@ -7,6 +7,9 @@
 - pkg:pypi/bzfs@1.14.0
 - pkg:pypi/bzfs@1.15.0
 - pkg:pypi/bzfs@1.15.1
+- pkg:pypi/bzfs@1.16.0
+- pkg:pypi/bzfs@1.17.0
+- pkg:pypi/bzfs@1.18.0
 - pkg:pypi/bzfs@1.2.0
 - pkg:pypi/bzfs@1.2.1
 - pkg:pypi/bzfs@1.3.0

@@ -91,3 +91,5 @@
 - pkg:pypi/bx-django-utils@9
 - pkg:pypi/bx-django-utils@90
 - pkg:pypi/bx-django-utils@91
+- pkg:pypi/bx-django-utils@92
+- pkg:pypi/bx-django-utils@93

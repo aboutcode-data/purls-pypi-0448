@@ -19,6 +19,8 @@
 - pkg:pypi/bx-py-utils@111
 - pkg:pypi/bx-py-utils@113
 - pkg:pypi/bx-py-utils@114
+- pkg:pypi/bx-py-utils@115
+- pkg:pypi/bx-py-utils@116
 - pkg:pypi/bx-py-utils@12
 - pkg:pypi/bx-py-utils@13
 - pkg:pypi/bx-py-utils@14
