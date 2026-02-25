@@ -1,0 +1,5 @@
+- pkg:pypi/compatibility@0.8
+- pkg:pypi/compatibility@0.9.0
+- pkg:pypi/compatibility@1.0.0
+- pkg:pypi/compatibility@1.0.1
+- pkg:pypi/compatibility@2.0.0
