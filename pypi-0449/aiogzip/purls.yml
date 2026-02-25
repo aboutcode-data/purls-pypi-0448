@@ -5,3 +5,6 @@
 - pkg:pypi/aiogzip@0.4
 - pkg:pypi/aiogzip@1.0.0
 - pkg:pypi/aiogzip@1.1.0
+- pkg:pypi/aiogzip@1.2.0
+- pkg:pypi/aiogzip@1.2.1
+- pkg:pypi/aiogzip@1.2.2

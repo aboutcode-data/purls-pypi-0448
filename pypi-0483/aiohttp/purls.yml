@@ -227,6 +227,7 @@
 - pkg:pypi/aiohttp@3.13.0
 - pkg:pypi/aiohttp@3.13.1
 - pkg:pypi/aiohttp@3.13.2
+- pkg:pypi/aiohttp@3.13.3
 - pkg:pypi/aiohttp@3.2.0
 - pkg:pypi/aiohttp@3.2.1
 - pkg:pypi/aiohttp@3.3.0

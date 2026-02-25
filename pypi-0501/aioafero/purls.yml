@@ -38,3 +38,6 @@
 - pkg:pypi/aioafero@6.0.1
 - pkg:pypi/aioafero@6.1.0
 - pkg:pypi/aioafero@6.1.1
+- pkg:pypi/aioafero@6.1.2
+- pkg:pypi/aioafero@6.2.0
+- pkg:pypi/aioafero@7.0.0
