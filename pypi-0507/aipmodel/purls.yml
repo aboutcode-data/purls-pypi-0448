@@ -53,7 +53,14 @@
 - pkg:pypi/aipmodel@0.2.55
 - pkg:pypi/aipmodel@0.2.56
 - pkg:pypi/aipmodel@0.2.57
+- pkg:pypi/aipmodel@0.2.58
+- pkg:pypi/aipmodel@0.2.59
 - pkg:pypi/aipmodel@0.2.6
+- pkg:pypi/aipmodel@0.2.60
+- pkg:pypi/aipmodel@0.2.61
+- pkg:pypi/aipmodel@0.2.62
+- pkg:pypi/aipmodel@0.2.63
+- pkg:pypi/aipmodel@0.2.64
 - pkg:pypi/aipmodel@0.2.7
 - pkg:pypi/aipmodel@0.2.8
 - pkg:pypi/aipmodel@0.2.9
