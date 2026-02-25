@@ -6,6 +6,17 @@
 - pkg:pypi/chessanalysispipeline@0.0.14
 - pkg:pypi/chessanalysispipeline@0.0.15
 - pkg:pypi/chessanalysispipeline@0.0.16
+- pkg:pypi/chessanalysispipeline@0.0.17
+- pkg:pypi/chessanalysispipeline@0.0.17.dev1
+- pkg:pypi/chessanalysispipeline@0.0.17.dev2
+- pkg:pypi/chessanalysispipeline@0.0.17.dev3
+- pkg:pypi/chessanalysispipeline@0.0.17.dev4
+- pkg:pypi/chessanalysispipeline@0.0.17.dev5
+- pkg:pypi/chessanalysispipeline@0.0.17.dev6
+- pkg:pypi/chessanalysispipeline@0.0.17.dev7
+- pkg:pypi/chessanalysispipeline@0.0.17.dev8
+- pkg:pypi/chessanalysispipeline@0.0.18
+- pkg:pypi/chessanalysispipeline@0.0.18.dev1
 - pkg:pypi/chessanalysispipeline@0.0.2
 - pkg:pypi/chessanalysispipeline@0.0.3
 - pkg:pypi/chessanalysispipeline@0.0.4
@@ -14,3 +25,4 @@
 - pkg:pypi/chessanalysispipeline@0.0.7
 - pkg:pypi/chessanalysispipeline@0.0.8
 - pkg:pypi/chessanalysispipeline@0.0.9
+- pkg:pypi/chessanalysispipeline@1.0.0
