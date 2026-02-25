@@ -17,6 +17,7 @@
 - pkg:pypi/azure-mgmt-loganalytics@13.0.0b6
 - pkg:pypi/azure-mgmt-loganalytics@13.0.0b7
 - pkg:pypi/azure-mgmt-loganalytics@13.1.0
+- pkg:pypi/azure-mgmt-loganalytics@13.1.1
 - pkg:pypi/azure-mgmt-loganalytics@2.0.0
 - pkg:pypi/azure-mgmt-loganalytics@7.0.0
 - pkg:pypi/azure-mgmt-loganalytics@7.0.0b1

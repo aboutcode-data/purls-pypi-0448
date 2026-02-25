@@ -50,5 +50,6 @@
 - pkg:pypi/azureml-contrib-fairness@1.59.0
 - pkg:pypi/azureml-contrib-fairness@1.60.0
 - pkg:pypi/azureml-contrib-fairness@1.61.0
+- pkg:pypi/azureml-contrib-fairness@1.62.0
 - pkg:pypi/azureml-contrib-fairness@1.8.0
 - pkg:pypi/azureml-contrib-fairness@1.9.0
