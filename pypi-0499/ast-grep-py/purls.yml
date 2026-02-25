@@ -97,3 +97,9 @@
 - pkg:pypi/ast-grep-py@0.39.7
 - pkg:pypi/ast-grep-py@0.39.9
 - pkg:pypi/ast-grep-py@0.40.0
+- pkg:pypi/ast-grep-py@0.40.1
+- pkg:pypi/ast-grep-py@0.40.2
+- pkg:pypi/ast-grep-py@0.40.3
+- pkg:pypi/ast-grep-py@0.40.4
+- pkg:pypi/ast-grep-py@0.40.5
+- pkg:pypi/ast-grep-py@0.41.0

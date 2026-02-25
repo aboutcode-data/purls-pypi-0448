@@ -11,6 +11,7 @@
 - pkg:pypi/aspire@0.13.2
 - pkg:pypi/aspire@0.14.0
 - pkg:pypi/aspire@0.14.1
+- pkg:pypi/aspire@0.14.2
 - pkg:pypi/aspire@0.5.1
 - pkg:pypi/aspire@0.5.2
 - pkg:pypi/aspire@0.5.3

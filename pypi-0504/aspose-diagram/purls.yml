@@ -40,6 +40,7 @@
 - pkg:pypi/aspose-diagram@25.1.0
 - pkg:pypi/aspose-diagram@25.10.0
 - pkg:pypi/aspose-diagram@25.11.0
+- pkg:pypi/aspose-diagram@25.12.0
 - pkg:pypi/aspose-diagram@25.2.0
 - pkg:pypi/aspose-diagram@25.3.0
 - pkg:pypi/aspose-diagram@25.4.0
@@ -48,3 +49,5 @@
 - pkg:pypi/aspose-diagram@25.7.0
 - pkg:pypi/aspose-diagram@25.8.0
 - pkg:pypi/aspose-diagram@25.9.0
+- pkg:pypi/aspose-diagram@26.1.0
+- pkg:pypi/aspose-diagram@26.2.0
