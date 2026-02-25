@@ -1,6 +1,9 @@
 - pkg:pypi/beans-logging@1.0.0
 - pkg:pypi/beans-logging@1.0.1
 - pkg:pypi/beans-logging@1.0.2
+- pkg:pypi/beans-logging@10.0.0
+- pkg:pypi/beans-logging@10.0.1
+- pkg:pypi/beans-logging@10.0.2
 - pkg:pypi/beans-logging@2.0.0
 - pkg:pypi/beans-logging@2.0.1
 - pkg:pypi/beans-logging@3.0.0
@@ -26,3 +29,11 @@
 - pkg:pypi/beans-logging@6.0.3
 - pkg:pypi/beans-logging@7.0.0
 - pkg:pypi/beans-logging@7.1.0
+- pkg:pypi/beans-logging@8.0.0
+- pkg:pypi/beans-logging@8.0.1
+- pkg:pypi/beans-logging@8.0.2
+- pkg:pypi/beans-logging@9.0.0
+- pkg:pypi/beans-logging@9.0.1
+- pkg:pypi/beans-logging@9.0.2
+- pkg:pypi/beans-logging@9.1.0
+- pkg:pypi/beans-logging@9.1.1
