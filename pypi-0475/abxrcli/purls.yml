@@ -7,6 +7,8 @@
 - pkg:pypi/abxrcli@0.14.0
 - pkg:pypi/abxrcli@0.15.0
 - pkg:pypi/abxrcli@0.15.1
+- pkg:pypi/abxrcli@0.15.2
+- pkg:pypi/abxrcli@0.15.3
 - pkg:pypi/abxrcli@0.9.3
 - pkg:pypi/abxrcli@0.9.4
 - pkg:pypi/abxrcli@0.9.5
