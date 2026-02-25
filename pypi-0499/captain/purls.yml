@@ -36,3 +36,5 @@
 - pkg:pypi/captain@4.4.0
 - pkg:pypi/captain@4.5.0
 - pkg:pypi/captain@5.2.0
+- pkg:pypi/captain@6.0.0
+- pkg:pypi/captain@6.1.0
