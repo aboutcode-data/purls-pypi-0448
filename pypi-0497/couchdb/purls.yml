@@ -1,0 +1,15 @@
+- pkg:pypi/couchdb@0.1
+- pkg:pypi/couchdb@0.10
+- pkg:pypi/couchdb@0.2
+- pkg:pypi/couchdb@0.3
+- pkg:pypi/couchdb@0.4
+- pkg:pypi/couchdb@0.5
+- pkg:pypi/couchdb@0.6
+- pkg:pypi/couchdb@0.6.1
+- pkg:pypi/couchdb@0.7
+- pkg:pypi/couchdb@0.8
+- pkg:pypi/couchdb@0.9
+- pkg:pypi/couchdb@1.0
+- pkg:pypi/couchdb@1.0.1
+- pkg:pypi/couchdb@1.1
+- pkg:pypi/couchdb@1.2
