@@ -38,3 +38,4 @@
 - pkg:pypi/biobb-model@4.2.3
 - pkg:pypi/biobb-model@5.0.0
 - pkg:pypi/biobb-model@5.1.0
+- pkg:pypi/biobb-model@5.2.0
