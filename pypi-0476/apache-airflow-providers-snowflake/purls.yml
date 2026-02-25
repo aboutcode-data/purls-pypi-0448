@@ -153,4 +153,13 @@
 - pkg:pypi/apache-airflow-providers-snowflake@6.6.1rc1
 - pkg:pypi/apache-airflow-providers-snowflake@6.7.0
 - pkg:pypi/apache-airflow-providers-snowflake@6.7.0rc1
+- pkg:pypi/apache-airflow-providers-snowflake@6.8.0
 - pkg:pypi/apache-airflow-providers-snowflake@6.8.0rc1
+- pkg:pypi/apache-airflow-providers-snowflake@6.8.1
+- pkg:pypi/apache-airflow-providers-snowflake@6.8.1rc1
+- pkg:pypi/apache-airflow-providers-snowflake@6.8.2
+- pkg:pypi/apache-airflow-providers-snowflake@6.8.2rc1
+- pkg:pypi/apache-airflow-providers-snowflake@6.9.0
+- pkg:pypi/apache-airflow-providers-snowflake@6.9.0rc1
+- pkg:pypi/apache-airflow-providers-snowflake@6.9.1
+- pkg:pypi/apache-airflow-providers-snowflake@6.9.1rc1

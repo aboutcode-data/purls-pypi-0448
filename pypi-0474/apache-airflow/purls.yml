@@ -100,6 +100,9 @@
 - pkg:pypi/apache-airflow@2.10.5rc1
 - pkg:pypi/apache-airflow@2.11.0
 - pkg:pypi/apache-airflow@2.11.0rc1
+- pkg:pypi/apache-airflow@2.11.1
+- pkg:pypi/apache-airflow@2.11.1rc1
+- pkg:pypi/apache-airflow@2.11.1rc2
 - pkg:pypi/apache-airflow@2.2.0
 - pkg:pypi/apache-airflow@2.2.0b1
 - pkg:pypi/apache-airflow@2.2.0b2
@@ -260,3 +263,10 @@
 - pkg:pypi/apache-airflow@3.1.4
 - pkg:pypi/apache-airflow@3.1.4rc1
 - pkg:pypi/apache-airflow@3.1.4rc2
+- pkg:pypi/apache-airflow@3.1.5
+- pkg:pypi/apache-airflow@3.1.5rc1
+- pkg:pypi/apache-airflow@3.1.6
+- pkg:pypi/apache-airflow@3.1.6rc1
+- pkg:pypi/apache-airflow@3.1.7
+- pkg:pypi/apache-airflow@3.1.7rc1
+- pkg:pypi/apache-airflow@3.1.7rc2

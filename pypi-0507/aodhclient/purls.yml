@@ -24,6 +24,7 @@
 - pkg:pypi/aodhclient@2.4.0
 - pkg:pypi/aodhclient@2.4.1
 - pkg:pypi/aodhclient@3.0.0
+- pkg:pypi/aodhclient@3.10.0
 - pkg:pypi/aodhclient@3.2.0
 - pkg:pypi/aodhclient@3.2.1
 - pkg:pypi/aodhclient@3.3.0
