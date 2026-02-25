@@ -57,3 +57,4 @@
 - pkg:pypi/airflow-code-editor@8.0.1
 - pkg:pypi/airflow-code-editor@8.1.0
 - pkg:pypi/airflow-code-editor@8.1.1
+- pkg:pypi/airflow-code-editor@8.2.0

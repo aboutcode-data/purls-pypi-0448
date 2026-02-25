@@ -27,3 +27,5 @@
 - pkg:pypi/airflow-dbt-winwin@0.6.0a2
 - pkg:pypi/airflow-dbt-winwin@0.6.0a3
 - pkg:pypi/airflow-dbt-winwin@0.6.0a4
+- pkg:pypi/airflow-dbt-winwin@0.6.0rc1
+- pkg:pypi/airflow-dbt-winwin@0.6.0rc2
