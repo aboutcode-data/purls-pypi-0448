@@ -33,7 +33,10 @@
 - pkg:pypi/cattle-grid@0.5.16
 - pkg:pypi/cattle-grid@0.5.17
 - pkg:pypi/cattle-grid@0.5.18
+- pkg:pypi/cattle-grid@0.5.19
 - pkg:pypi/cattle-grid@0.5.2
+- pkg:pypi/cattle-grid@0.5.20
+- pkg:pypi/cattle-grid@0.5.21
 - pkg:pypi/cattle-grid@0.5.3
 - pkg:pypi/cattle-grid@0.5.4
 - pkg:pypi/cattle-grid@0.5.5

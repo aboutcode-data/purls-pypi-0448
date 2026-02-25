@@ -63,6 +63,11 @@
 - pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.16.1
 - pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.16.2
 - pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.17.0
+- pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.17.1
+- pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.18.0
+- pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.18.1
+- pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.18.2
+- pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.18.3
 - pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.2.0
 - pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.3.0
 - pkg:pypi/ccs-digitalmarketplace-frontend-jinja@4.4.0
