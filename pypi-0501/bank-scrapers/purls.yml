@@ -85,6 +85,9 @@
 - pkg:pypi/bank-scrapers@1.4.2
 - pkg:pypi/bank-scrapers@1.4.20
 - pkg:pypi/bank-scrapers@1.4.21
+- pkg:pypi/bank-scrapers@1.4.22
+- pkg:pypi/bank-scrapers@1.4.23
+- pkg:pypi/bank-scrapers@1.4.24
 - pkg:pypi/bank-scrapers@1.4.4
 - pkg:pypi/bank-scrapers@1.4.5
 - pkg:pypi/bank-scrapers@1.4.6
