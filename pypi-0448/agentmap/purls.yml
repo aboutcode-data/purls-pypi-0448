@@ -6,6 +6,9 @@
 - pkg:pypi/agentmap@0.9.102
 - pkg:pypi/agentmap@0.9.103
 - pkg:pypi/agentmap@0.9.104
+- pkg:pypi/agentmap@0.9.200
+- pkg:pypi/agentmap@0.9.201
+- pkg:pypi/agentmap@0.9.202
 - pkg:pypi/agentmap@0.9.3
 - pkg:pypi/agentmap@0.9.5
 - pkg:pypi/agentmap@0.9.6
