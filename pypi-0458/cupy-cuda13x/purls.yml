@@ -1,0 +1,3 @@
+- pkg:pypi/cupy-cuda13x@13.6.0
+- pkg:pypi/cupy-cuda13x@14.0.0
+- pkg:pypi/cupy-cuda13x@14.0.1
