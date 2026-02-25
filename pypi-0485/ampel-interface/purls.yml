@@ -20,12 +20,14 @@
 - pkg:pypi/ampel-interface@0.10.4a2
 - pkg:pypi/ampel-interface@0.10.5a0
 - pkg:pypi/ampel-interface@0.10.5a1
+- pkg:pypi/ampel-interface@0.10.5a10
 - pkg:pypi/ampel-interface@0.10.5a2
 - pkg:pypi/ampel-interface@0.10.5a3
 - pkg:pypi/ampel-interface@0.10.5a4
 - pkg:pypi/ampel-interface@0.10.5a5
 - pkg:pypi/ampel-interface@0.10.5a6
 - pkg:pypi/ampel-interface@0.10.5a8
+- pkg:pypi/ampel-interface@0.10.5a9
 - pkg:pypi/ampel-interface@0.7.1
 - pkg:pypi/ampel-interface@0.7.1a0
 - pkg:pypi/ampel-interface@0.7.1a10
