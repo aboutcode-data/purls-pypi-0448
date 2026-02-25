@@ -28,6 +28,7 @@
 - pkg:pypi/ase@3.24.0
 - pkg:pypi/ase@3.25.0
 - pkg:pypi/ase@3.26.0
+- pkg:pypi/ase@3.27.0
 - pkg:pypi/ase@3.8.2
 - pkg:pypi/ase@3.9.0
 - pkg:pypi/ase@3.9.1

@@ -37,6 +37,7 @@
 - pkg:pypi/arshai@1.1.4
 - pkg:pypi/arshai@1.1.5
 - pkg:pypi/arshai@1.1.6
+- pkg:pypi/arshai@1.10.0
 - pkg:pypi/arshai@1.2.0
 - pkg:pypi/arshai@1.2.1
 - pkg:pypi/arshai@1.2.2
@@ -52,3 +53,8 @@
 - pkg:pypi/arshai@1.5.6
 - pkg:pypi/arshai@1.5.7
 - pkg:pypi/arshai@1.5.8
+- pkg:pypi/arshai@1.6.0
+- pkg:pypi/arshai@1.7.0
+- pkg:pypi/arshai@1.8.0
+- pkg:pypi/arshai@1.9.0
+- pkg:pypi/arshai@1.9.1
