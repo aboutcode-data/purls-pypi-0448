@@ -27,4 +27,5 @@
 - pkg:pypi/borg.localrole@3.1.9
 - pkg:pypi/borg.localrole@4.0.0
 - pkg:pypi/borg.localrole@4.0.1
+- pkg:pypi/borg.localrole@4.0.2
 - pkg:pypi/borg.localrole@5.0.0a1
