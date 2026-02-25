@@ -26,12 +26,12 @@
 - pkg:pypi/av@14.0.1
 - pkg:pypi/av@14.1.0
 - pkg:pypi/av@14.2.0
-- pkg:pypi/av@14.3.0
 - pkg:pypi/av@14.4.0
 - pkg:pypi/av@15.0.0
 - pkg:pypi/av@15.1.0
 - pkg:pypi/av@16.0.0
 - pkg:pypi/av@16.0.1
+- pkg:pypi/av@16.1.0
 - pkg:pypi/av@6.0.0
 - pkg:pypi/av@6.1.0
 - pkg:pypi/av@6.1.2
